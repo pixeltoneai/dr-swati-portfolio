@@ -38,7 +38,7 @@ export default function About() {
           </h2>
 
           <p className="mt-6 text-gray-600 leading-relaxed">
-            I am a healthcare operations professional with over 8 years of experience in hospital management, accreditation, and system development. I work closely with healthcare facilities to build structured, efficient, and compliant systems that support high-quality patient care.
+            I am a healthcare operations professional with over 14 years of experience in hospital management, accreditation, and system development. I work closely with healthcare facilities to build structured, efficient, and compliant systems that support high-quality patient care.
           </p>
 
           <p className="mt-4 text-gray-600 leading-relaxed">

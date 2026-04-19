@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 export default function Trust() {
   const items = [
     {
-      title: "8+ Years Experience",
+      title: "14+ Years Experience",
       short: "Hands-on hospital operations expertise.",
       full: "Extensive experience in managing hospital operations, implementing systems, and ensuring healthcare facilities run efficiently while maintaining high standards of patient care and compliance.",
     },
