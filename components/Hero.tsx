@@ -120,7 +120,7 @@ export default function Hero() {
           <div className="w-[320px] h-[380px] md:w-[420px] md:h-[480px] relative rounded-3xl overflow-hidden shadow-xl border border-white/30">
             
             <Image
-              src="/swati.png"
+              src="/swati.jpeg"
               alt="Dr. Swati Gupta Bajpai"
               fill
               className="object-cover"

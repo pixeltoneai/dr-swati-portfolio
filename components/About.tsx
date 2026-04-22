@@ -18,7 +18,7 @@ export default function About() {
           <div className="w-[300px] h-[350px] md:w-[380px] md:h-[420px] relative rounded-3xl overflow-hidden shadow-xl border border-white/30">
             
             <Image
-              src="/swati.png"
+              src="/swati.jpeg"
               alt="Dr. Swati Gupta Bajpai"
               fill
               className="object-cover"
